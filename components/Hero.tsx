@@ -1,4 +1,3 @@
-"use client";
 import { CustomButton } from ".";
 import Image from "next/image";
 
