@@ -42,7 +42,7 @@
 
 👉 **Metadata Optimization and SEO**: Optimize metadata for car listing, enhancing search engine optimization (SEO) and ensuring better visibility on search engine results pages.
 
-👉 **TypeScript Types**: Utilize TypeScript to provide robust typing for enhanced code quality and better development
+👉 **TypeScript Types**: Utilize TypeScript to provide robust typing for enhanced code quality and better development.
 
 👉 **Responsive Website Design**: The website is designed to be visually pleasing and responsive, ensuring an optimal user experience across various devices.
 
