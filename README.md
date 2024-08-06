@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://car-hub-fv.vercel.app" target="_blank">
-      <img src="public/preview.webp" alt="Project Banner">
+      <img src="public/design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Car Showcase Website</h3>
 </div>
@@ -20,15 +20,15 @@
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
-- **React** is a JavaScript library for building user interfaces with a component-based architecture, facilitating reusable and maintainable code.
+- [**React**](https://react.dev/reference/react) is a JavaScript library for building user interfaces with a component-based architecture, facilitating reusable and maintainable code.
 
-- **Next.js** is a powerful React framework that enables server-side rendering, automatic code splitting, and efficient performance optimizations for building modern web applications.
+- [**Next.js**](https://nextjs.org/docs) is a powerful React framework that enables server-side rendering, automatic code splitting, and efficient performance optimizations for building modern web applications.
 
-- **TypeScript** is a statically typed superset of JavaScript that enhances code quality and developer productivity by identifying errors early and enabling better tooling support.
+- [**TypeScript**](https://www.typescriptlang.org/docs/) is a statically typed superset of JavaScript that enhances code quality and developer productivity by identifying errors early and enabling better tooling support.
 
-- **Rapid API** is a platform that simplifies API integration by providing a marketplace of third-party APIs, allowing developers to discover, connect to, and manage APIs efficiently within their applications.
+- [**RapidAPI**](https://docs.rapidapi.com/) is a platform that simplifies API integration by providing a marketplace of third-party APIs, allowing developers to discover, connect to, and manage APIs efficiently within their applications.
 
-- **Tailwind** is an utility-first CSS framework that allows for rapid UI development by providing a set of utility classes for styling directly in HTML, promoting a scalable and consistent design system.
+- [**Tailwind**](https://v2.tailwindcss.com/docs) is an utility-first CSS framework that allows for rapid UI development by providing a set of utility classes for styling directly in HTML, promoting a scalable and consistent design system.
 
 ## <br/> <a name="features">📝 Features</a>
 
