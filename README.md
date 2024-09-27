@@ -86,6 +86,7 @@ NEXT_PUBLIC_IMAGIN_API_KEY=
 Replace the placeholder values with your actual credentials:
 
 - [Rapid API](https://dashboard.clerk.com)
+- [Cars by API-Ninjas](https://rapidapi.com/apininjas/api/cars-by-api-ninjas)
 - [Cloudinary](https://dashboard.imagin.studio)
 
 <br/>**Running the Project**
