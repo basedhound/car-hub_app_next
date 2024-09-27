@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://car-hub-fv.vercel.app" target="_blank">
+    <a href="https://carhub-fv.vercel.app" target="_blank">
       <img src="public/design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Car Showcase Website</h3>
