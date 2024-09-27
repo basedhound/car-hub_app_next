@@ -3,6 +3,7 @@
       <img src="public/design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Car Showcase Website</h3>
+  <p align="center">❌ Currently non-functional because the free tier of Cars by API-Ninjas has been discontinued.</p>
 </div>
 
 ##  <br /> 📋 <a name="table">Table of Contents</a>
@@ -16,7 +17,11 @@
 
 **[EN]** Developed with Next.js and leveraging its server-side rendering capabilities, this Car Showcase website presents various car types, showcasing comprehensive information in a well-designed format with advanced filtering and pagination support for an enhanced user experience.
 
+❌ Currently non-functional because the free tier of Cars by API-Ninjas has been discontinued.
+
 **[FR]** Développé avec Next.js et exploitant ses capacités de rendu côté serveur, ce site web de présentation de voitures propose différents types de véhicules, offrant des informations détaillées dans un format bien conçu avec un support avancé de filtrage et de pagination pour une expérience utilisateur améliorée.
+
+❌ Actuellement non fonctionnel car Cars by API-Ninjas ne propose plus d'offre gratuite.
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
